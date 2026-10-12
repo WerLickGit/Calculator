@@ -8,9 +8,6 @@ A simple command-line calculator built with Rust. It supports basic arithmetic o
 
 - Basic arithmetic: addition, subtraction, multiplication, division, and remainder
 - Floating-point number support
-- Input validation for numbers and operations
-- Division by zero protection
-- Continuous execution mode
 
 ## Requirements
 
