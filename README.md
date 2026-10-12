@@ -17,12 +17,18 @@ A simple command-line calculator built with Rust. It supports basic arithmetic o
 ## Installation
 
 1. Clone the repository:
-```git clone https://github.com/WerLickGit/Calculator.git```
-```cd Calculator```
+```bash
+git clone https://github.com/WerLickGit/Calculator.git```
+cd Calculator
+```
 
-2. Build the Project:
-```cargo build --release```
+3. Build the Project:
+```bash
+cargo build --release
+```
 
-3. Usage:
-```cargo run```
+5. Usage:
+```bash
+cargo run
+```
 
