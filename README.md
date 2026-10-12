@@ -22,12 +22,12 @@ git clone https://github.com/WerLickGit/Calculator.git```
 cd Calculator
 ```
 
-3. Build the Project:
+2. Build the Project:
 ```bash
 cargo build --release
 ```
 
-5. Usage:
+3. Usage:
 ```bash
 cargo run
 ```
