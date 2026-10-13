@@ -18,7 +18,7 @@ A simple command-line calculator built with Rust. It supports basic arithmetic o
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/WerLickGit/Calculator.git```
+git clone https://github.com/WerLickGit/Calculator.git
 cd Calculator
 ```
 
